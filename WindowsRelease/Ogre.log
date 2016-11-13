@@ -1,0 +1,140 @@
+21:54:24: Creating resource group General
+21:54:24: Creating resource group Internal
+21:54:24: Creating resource group Autodetect
+21:54:24: SceneManagerFactory for type 'DefaultSceneManager' registered.
+21:54:24: Registering ResourceManager for type Material
+21:54:24: Registering ResourceManager for type Mesh
+21:54:24: Registering ResourceManager for type Skeleton
+21:54:24: MovableObjectFactory for type 'ParticleSystem' registered.
+21:54:24: OverlayElementFactory for type Panel registered.
+21:54:24: OverlayElementFactory for type BorderPanel registered.
+21:54:24: OverlayElementFactory for type TextArea registered.
+21:54:24: Registering ResourceManager for type Font
+21:54:24: ArchiveFactory for archive type FileSystem registered.
+21:54:24: ArchiveFactory for archive type Zip registered.
+21:54:24: DDS codec registering
+21:54:24: FreeImage version: 3.13.1
+21:54:24: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+21:54:24: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,bay,bmq,cr2,crw,cs1,dc2,dcr,dng,erf,fff,hdr,k25,kdc,mdc,mos,mrw,nef,orf,pef,pxn,raf,raw,rdc,sr2,srf,arw,3fr,cine,ia,kc2,mef,nrw,qtk,rw2,sti,drf,dsc,ptx,cap,iiq,rwz
+21:54:24: Registering ResourceManager for type HighLevelGpuProgram
+21:54:24: Registering ResourceManager for type Compositor
+21:54:24: MovableObjectFactory for type 'Entity' registered.
+21:54:24: MovableObjectFactory for type 'Light' registered.
+21:54:24: MovableObjectFactory for type 'BillboardSet' registered.
+21:54:24: MovableObjectFactory for type 'ManualObject' registered.
+21:54:24: MovableObjectFactory for type 'BillboardChain' registered.
+21:54:24: MovableObjectFactory for type 'RibbonTrail' registered.
+21:54:24: Loading library .\RenderSystem_Direct3D9
+21:54:24: Installing plugin: D3D9 RenderSystem
+21:54:24: D3D9 : Direct3D9 Rendering Subsystem created.
+21:54:24: D3D9: Driver Detection Starts
+21:54:24: D3D9: Driver Detection Ends
+21:54:24: Plugin successfully installed
+21:54:24: Loading library .\RenderSystem_GL
+21:54:24: Installing plugin: GL RenderSystem
+21:54:24: OpenGL Rendering Subsystem created.
+21:54:24: Plugin successfully installed
+21:54:24: Loading library .\Plugin_ParticleFX
+21:54:24: Installing plugin: ParticleFX
+21:54:24: Particle Emitter Type 'Point' registered
+21:54:24: Particle Emitter Type 'Box' registered
+21:54:24: Particle Emitter Type 'Ellipsoid' registered
+21:54:24: Particle Emitter Type 'Cylinder' registered
+21:54:24: Particle Emitter Type 'Ring' registered
+21:54:24: Particle Emitter Type 'HollowEllipsoid' registered
+21:54:24: Particle Affector Type 'LinearForce' registered
+21:54:24: Particle Affector Type 'ColourFader' registered
+21:54:24: Particle Affector Type 'ColourFader2' registered
+21:54:24: Particle Affector Type 'ColourImage' registered
+21:54:24: Particle Affector Type 'ColourInterpolator' registered
+21:54:24: Particle Affector Type 'Scaler' registered
+21:54:24: Particle Affector Type 'Rotator' registered
+21:54:24: Particle Affector Type 'DirectionRandomiser' registered
+21:54:24: Particle Affector Type 'DeflectorPlane' registered
+21:54:24: Plugin successfully installed
+21:54:24: Loading library .\Plugin_BSPSceneManager
+21:54:24: Installing plugin: BSP Scene Manager
+21:54:24: Plugin successfully installed
+21:54:24: Loading library .\Plugin_CgProgramManager
+21:54:24: Installing plugin: Cg Program Manager
+21:54:24: Plugin successfully installed
+21:54:24: Loading library .\Plugin_PCZSceneManager
+21:54:25: Installing plugin: Portal Connected Zone Scene Manager
+21:54:25: PCZone Factory Type 'ZoneType_Default' registered
+21:54:25: Plugin successfully installed
+21:54:25: Loading library .\Plugin_OctreeZone
+21:54:25: Installing plugin: Octree Zone Factory
+21:54:25: Plugin successfully installed
+21:54:25: Loading library .\Plugin_OctreeSceneManager
+21:54:25: Installing plugin: Octree & Terrain Scene Manager
+21:54:25: Plugin successfully installed
+21:54:25: *-*-* OGRE Initialising
+21:54:25: *-*-* Version 1.7.2 (Cthugha)
+21:54:25: Creating resource group Essential
+21:54:25: Added resource location '../../media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+21:54:25: Added resource location '../../media/packs/SdkTrays.zip' of type 'Zip' to resource group 'Essential'
+21:54:25: Added resource location '../../media' of type 'FileSystem' to resource group 'General'
+21:54:25: Creating resource group Popular
+21:54:25: Added resource location '../../media/fonts' of type 'FileSystem' to resource group 'Popular'
+21:54:25: Added resource location '../../media/materials/programs' of type 'FileSystem' to resource group 'Popular'
+21:54:25: Added resource location '../../media/materials/scripts' of type 'FileSystem' to resource group 'Popular'
+21:54:25: Added resource location '../../media/materials/textures' of type 'FileSystem' to resource group 'Popular'
+21:54:25: Added resource location '../../media/materials/textures/nvidia' of type 'FileSystem' to resource group 'Popular'
+21:54:25: Added resource location '../../media/models' of type 'FileSystem' to resource group 'Popular'
+21:54:25: Added resource location '../../media/particle' of type 'FileSystem' to resource group 'Popular'
+21:54:25: Added resource location '../../media/DeferredShadingMedia' of type 'FileSystem' to resource group 'Popular'
+21:54:25: Added resource location '../../media/PCZAppMedia' of type 'FileSystem' to resource group 'Popular'
+21:54:25: Added resource location '../../media/RTShaderLib' of type 'FileSystem' to resource group 'Popular'
+21:54:25: Added resource location '../../media/RTShaderLib/materials' of type 'FileSystem' to resource group 'Popular'
+21:54:25: Added resource location '../../media/packs/cubemap.zip' of type 'Zip' to resource group 'Popular'
+21:54:25: Added resource location '../../media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'Popular'
+21:54:25: Added resource location '../../media/packs/dragon.zip' of type 'Zip' to resource group 'Popular'
+21:54:25: Added resource location '../../media/packs/fresneldemo.zip' of type 'Zip' to resource group 'Popular'
+21:54:25: Added resource location '../../media/packs/ogretestmap.zip' of type 'Zip' to resource group 'Popular'
+21:54:25: Added resource location '../../media/packs/ogredance.zip' of type 'Zip' to resource group 'Popular'
+21:54:25: Added resource location '../../media/packs/Sinbad.zip' of type 'Zip' to resource group 'Popular'
+21:54:25: Added resource location '../../media/packs/skybox.zip' of type 'Zip' to resource group 'Popular'
+21:54:25: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
+21:54:25: D3D9 : RenderSystem Option: FSAA = 0
+21:54:25: D3D9 : RenderSystem Option: Floating-point mode = Fastest
+21:54:25: D3D9 : RenderSystem Option: Full Screen = Yes
+21:54:25: D3D9 : RenderSystem Option: Rendering Device = Monitor-1-ATI Mobility Radeon HD 5470
+21:54:25: D3D9 : RenderSystem Option: Resource Creation Policy = Create on all devices
+21:54:25: D3D9 : RenderSystem Option: VSync = No
+21:54:25: D3D9 : RenderSystem Option: VSync Interval = 1
+21:54:25: D3D9 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
+21:54:25: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No
+21:54:27: *-*-* OGRE Shutdown
+21:54:27: Unregistering ResourceManager for type Compositor
+21:54:27: Unregistering ResourceManager for type Font
+21:54:27: Unregistering ResourceManager for type Skeleton
+21:54:27: Unregistering ResourceManager for type Mesh
+21:54:27: Unregistering ResourceManager for type HighLevelGpuProgram
+21:54:27: Uninstalling plugin: Octree & Terrain Scene Manager
+21:54:27: Plugin successfully uninstalled
+21:54:27: Unloading library .\Plugin_OctreeSceneManager
+21:54:27: Uninstalling plugin: Octree Zone Factory
+21:54:27: Plugin successfully uninstalled
+21:54:27: Unloading library .\Plugin_OctreeZone
+21:54:27: Uninstalling plugin: Portal Connected Zone Scene Manager
+21:54:27: Plugin successfully uninstalled
+21:54:27: Unloading library .\Plugin_PCZSceneManager
+21:54:27: Uninstalling plugin: Cg Program Manager
+21:54:27: Plugin successfully uninstalled
+21:54:27: Unloading library .\Plugin_CgProgramManager
+21:54:27: Uninstalling plugin: BSP Scene Manager
+21:54:27: Plugin successfully uninstalled
+21:54:27: Unloading library .\Plugin_BSPSceneManager
+21:54:27: Uninstalling plugin: ParticleFX
+21:54:27: Plugin successfully uninstalled
+21:54:27: Unloading library .\Plugin_ParticleFX
+21:54:27: Uninstalling plugin: GL RenderSystem
+21:54:27: *** Stopping Win32GL Subsystem ***
+21:54:27: Plugin successfully uninstalled
+21:54:27: Unloading library .\RenderSystem_GL
+21:54:27: Uninstalling plugin: D3D9 RenderSystem
+21:54:27: D3D9 : Shutting down cleanly.
+21:54:27: D3D9 : Direct3D9 Rendering Subsystem destroyed.
+21:54:27: Plugin successfully uninstalled
+21:54:27: Unloading library .\RenderSystem_Direct3D9
+21:54:27: Unregistering ResourceManager for type Material
